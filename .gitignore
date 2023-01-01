@@ -396,3 +396,6 @@ Temporary Items
 # Local
 .env
 dist
+docker/db
+docker/logs
+!docker/node/
